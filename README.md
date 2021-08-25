@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @CeeJay68
+- 🏛 I work for Dorset Council
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and PowerBI
 - 💞️ I’m looking to collaborate on LAC Data Quality Tool
